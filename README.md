@@ -1,0 +1,1 @@
+# rizanovita-yolov8-labeling-project-kucing-anjing-annotation
